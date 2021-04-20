@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="800"
+   height="600"
+   id="svg2232"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docname="Auto_Racing_Yellow_with_P.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:docbase="C:\Documents and Settings\David Nelson\Archives\Svg">
+  <metadata
+     id="metadata2239">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2237" />
+  <sodipodi:namedview
+     inkscape:window-height="569"
+     inkscape:window-width="744"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.62833333"
+     inkscape:cx="400"
+     inkscape:cy="300"
+     inkscape:window-x="44"
+     inkscape:window-y="60"
+     inkscape:current-layer="svg2232" />
+  <rect
+     fill="red"
+     x="0"
+     y="0"
+     width="800"
+     height="600"
+     id="rect2234"
+     style="fill:#ffff00" />
+  <text
+     xml:space="preserve"
+     style="font-size:670.10864258px;font-weight:bold;font-family:Helvetica"
+     x="177.07242"
+     y="539.83868"
+     id="text2241"><tspan
+       sodipodi:role="line"
+       id="tspan2243"
+       x="177.07242"
+       y="539.83868">P</tspan></text>
+</svg>
